@@ -1,5 +1,5 @@
 <?php
-
+ 
 class Life {
     public $grid = []; // Declaring array for holding values , this will hold grid
 
